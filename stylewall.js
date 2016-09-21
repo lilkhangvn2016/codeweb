@@ -96,7 +96,7 @@ function submit_design() {
 }
 var submit_change = !0,
     defaultstyle = {
-        "color-main-extra": "#0b8c8c",
+        "color-main-extra": "#eeeff3",
         "image-banner-main": "",
         "wall-music": ""
     };
